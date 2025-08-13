@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Augusto and I'm a Developer, from Brazil, SP</p>
+<p align="left">My name is Augusto and I'm a Developer, from Brazil, SP </p>
 
 ###
 
